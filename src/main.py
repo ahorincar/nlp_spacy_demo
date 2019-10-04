@@ -1,6 +1,3 @@
-# # test_url = 'https://elemental.medium.com/whats-in-meatless-burgers-a-nutritional-fact-check-481c3af2f39c'
-# import string
-#
 import requests
 from bs4 import BeautifulSoup
 from PyQt5 import QtWidgets
